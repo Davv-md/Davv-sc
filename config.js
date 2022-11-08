@@ -52,7 +52,7 @@ global.nameown = 'Davian'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287789507400', 'NexEp', 'true']
+  ['6287789507400', 'Davian', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,8 +108,8 @@ global.wm3 = 'DavvBotz | By dv'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `DavBotz | ʙʏ ${global.nameown}`
-global.author = 'DavEp' 
-global.packname = 'davEp'
+global.author = 'Dav Botz' 
+global.packname = 'dav'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'agustus 12 2008'
 
@@ -378,8 +378,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'davv'
+global.stickauth = `Davv bot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
