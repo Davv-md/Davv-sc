@@ -130,7 +130,7 @@ global.nameowner = 'Davv md'
 global.umurowner = '14'
 global.asalowner = 'Jawa Barat, Jakarta'
 global.nomorowner = 'wa.me/6287789507400'
-global.pacarowner 'Kaede Hitotsuba'
+global.pacarowner = 'Kaede Hitotsuba'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
