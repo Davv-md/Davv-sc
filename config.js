@@ -52,7 +52,7 @@ global.nameown = 'Davian'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287789507400', 'Davian', 'true']
+  ['6289516789684', 'Davian', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -129,7 +129,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'Davv md'
 global.umurowner = '14'
 global.asalowner = 'Jawa Barat, Jakarta'
-global.nomorowner = 'wa.me/6287789507400'
+global.nomorowner = 'wa.me/6289516789684'
 global.pacarowner = 'Kaede Hitotsuba'
 
 /*============== TEXT ==============*/
